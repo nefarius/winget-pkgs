@@ -124,13 +124,13 @@ ElevationRequirement: elevatesSelf
 Installers:
 - Architecture: x86
   InstallerUrl: https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe
-  InstallerSha256: D81773FA0A67BC6CBEE538C9A6D62D40A878DD4CFC73F5009167467FBDA903C9
+  InstallerSha256: 6C7399185D24A403F291D6DF3AD957706D8704B0261E899F3E5174295620ECD1
   AppsAndFeaturesEntries:
   - Publisher: Kakao Corp.
     ProductCode: PotPlayer
 - Architecture: x64
   InstallerUrl: https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
-  InstallerSha256: F773FF394D415F33ACFC8F4A85BE144C9CFBC2CBF6800BDEEBDAF9A1474B1E74
+  InstallerSha256: E290A654AFBE4554B45568BC536E2B0DC47D9E9CBE47B22337757100FDCCB265
   AppsAndFeaturesEntries:
   - Publisher: Kakao Corp.
     ProductCode: PotPlayer64
